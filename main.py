@@ -1,2 +1,2 @@
 print("hola mundo")
-print("ahora sí, el print era este, pero lo fixeo")
+print("ahora sí, el print era este, ya está el fix e implemento modelo")
